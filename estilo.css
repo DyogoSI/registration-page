@@ -1,0 +1,36 @@
+button{
+
+    margin-top: 10px;
+    background-color: green;
+    color:white; 
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+
+body{
+    display: block;
+    align-items: center;
+    justify-content: center;
+    background-color: blue;
+    color:white;
+    font-family: Arial, sans-serif;
+}
+
+h2{
+    color:white;
+    
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
